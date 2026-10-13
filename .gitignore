@@ -82,6 +82,7 @@ Testing/
 *.user
 *.userosscache
 *.sln.docstates
+*.slnx
 *.env
 
 # User-specific files (MonoDevelop/Xamarin Studio)
