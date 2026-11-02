@@ -1,12 +1,9 @@
 #include <iostream>
 #include <cstdlib>
-#include <ctime>
-
 using namespace std;
 
 int main() {
     setlocale(LC_ALL, ".UTF8");
-    srand(static_cast<unsigned int>(time(nullptr)));
 
     const int N = 100; // Максимальная длина статического массива
     int a[N];          // Объявление статического массива
